@@ -14,6 +14,8 @@
  * •   Use an array of strings holding the day names: 
  *                   {"Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"}.
  * •   Print the element at index (day-1) when it is in the range [1…7] or “Invalid Day!” otherwise.
+ * 
+ * https://github.com/PavelDoynov
 */
 
 

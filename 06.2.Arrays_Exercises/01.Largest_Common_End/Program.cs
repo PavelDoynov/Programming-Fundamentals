@@ -20,6 +20,8 @@
  * •   Scan the arrays from left to right until the end of the shorter is reached and count the equal elements.
  * •   Scan the arrays form right to left until the start of the shorter is reached.
  * •   Keep the start position and the length of the longest equal start / end.
+ * 
+ * https://github.com/PavelDoynov
 */
 
 

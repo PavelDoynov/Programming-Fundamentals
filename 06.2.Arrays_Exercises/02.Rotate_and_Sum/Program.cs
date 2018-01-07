@@ -13,6 +13,8 @@
  * Hints
  * •   After r rotations the element at position i goes to position (i + r) % n.
  * •   The sum[] array can be calculated by two nested loops: for r = 1 … k; for i = 0 … n-1.
+ * 
+ * https://github.com/PavelDoynov
  */
 
 

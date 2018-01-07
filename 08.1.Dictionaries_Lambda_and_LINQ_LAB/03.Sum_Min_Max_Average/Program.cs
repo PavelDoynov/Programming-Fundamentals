@@ -15,6 +15,8 @@
  * -5        Max = 37
  * 37        Average = 14.4
  * 8   
+ * 
+ * https://github.com/PavelDoynov
 */
 
 

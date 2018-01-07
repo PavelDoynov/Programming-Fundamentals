@@ -40,6 +40,8 @@
  *                                                fragments: 0
  *                                                fangs: 9
  *                                                silver: 123
+ * 
+ * https://github.com/PavelDoynov
 */
 
 

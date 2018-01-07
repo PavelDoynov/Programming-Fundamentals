@@ -17,6 +17,8 @@
  * •   Use two nested loops:
  *    o   Loop through all elements i = 1 … n 
  *    o   Sum the elements i-k … i-1: seq[i] = sum(seq[i-k … i-1])
+ * 
+ * https://github.com/PavelDoynov
 */
 
 

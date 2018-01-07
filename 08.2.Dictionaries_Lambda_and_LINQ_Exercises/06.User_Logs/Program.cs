@@ -58,6 +58,8 @@
  *                                                                                  192.23.155.40 => 1.
  *                                                                                  yetAnotherUsername: 
  *                                                                                  192.23.50.40 => 2.
+ * 
+ * https://github.com/PavelDoynov
  */
 
 

@@ -15,6 +15,8 @@
  * •   We sum array elements one by one (from the first to the last).
  *     To enable rotating (take the first element as next after the last), we use the position % length indexing:
  *     arr1[i % len1] and arr2[i % len2].
+ * 
+ * https://github.com/PavelDoynov
 */
 
 

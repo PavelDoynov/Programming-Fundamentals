@@ -15,6 +15,8 @@
  * •   Exchange the second element (at index 1) with the element before the last (at index n-2).
  * •   Continue the same way until the middle of the array is reached.
  * •   Another, shorter approach, is to use the .Reverse() extension method from “System.Linq”.
+ * 
+ * https://github.com/PavelDoynov
 */
 
 

@@ -21,6 +21,8 @@
  * gold
  * 15
  * stop
+ * 
+ * https://github.com/PavelDoynov
 */
 
 

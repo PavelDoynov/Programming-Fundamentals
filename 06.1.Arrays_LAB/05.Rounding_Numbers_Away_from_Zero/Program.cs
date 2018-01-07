@@ -22,6 +22,8 @@
  *     If the original number is negative, make the result also negative.
  * •   Approach II: Search in Internet for “rounding away from zero” + C#. 
  *     You should find a built-in C# method for rounding in many styles. Choose the “away from zero” rounding.
+ * 
+ * https://github.com/PavelDoynov
  */
 
 

@@ -21,6 +21,8 @@
  * •   Sum the numbers from nums[] to condensed[]:
  *   o   condensed[i] = nums[i] + nums[i+1]
  * •   nums[] = condensed[]
+ * 
+ * https://github.com/PavelDoynov
 */
 
 

@@ -15,6 +15,8 @@
  *   •   Concatenate the left and the right part of row 1.
  *   •   Row 2: skip the first k numbers and take the next 2*k numbers.
  *   •   Sum the arrays row1 and row2: var sum = row1.Select((x, index) => x + row2[index]).
+ * 
+ * https://github.com/PavelDoynov
 */
 
 

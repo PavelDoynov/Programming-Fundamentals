@@ -25,6 +25,8 @@
  * •   Read the integers in a for-loop.
  * •   Instead of reversing the array, you can just pass through the elements from the last (n-1) to the 
  *     first (0) with a reverse for-loop.
+ * 
+ * https://github.com/PavelDoynov
  */
 
 

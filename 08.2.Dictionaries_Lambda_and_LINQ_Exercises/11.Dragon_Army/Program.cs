@@ -54,6 +54,8 @@
  * Gold Traxx 500 null 0               -Traxx -> damage: 500, health: 250, armor: 0
  * Gold Xaarxx 250 1000 null           -Xaarxx -> damage: 250, health: 1000, armor: 10
  * Gold Ardrax 100 1055 50             -Zzazx -> damage: 45, health: 1000, armor: 10
+ * 
+ * https://github.com/PavelDoynov
 */
 
 

@@ -20,6 +20,8 @@
  * •   Read the input numbers in array arr[].
  * •   Use nested loops to generate all pairs {a, b}, such that 0 ≤ a < b < n.
  * •   Check whether arr[] contains the sum arr[a] + arr[b].
+ * 
+ * https://github.com/PavelDoynov
 */
 
 

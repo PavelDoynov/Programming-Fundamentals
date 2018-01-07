@@ -15,6 +15,8 @@
  * •   Create the first row after folding: the first k numbers reversed, followed by the last k numbers reversed.
  * •   Create the second row after folding: the middle 2*k numbers.
  * •   Sum the first and the second rows.
+ * 
+ * https://github.com/PavelDoynov
 */
 
 

@@ -14,6 +14,8 @@
  * Input                  Output
  * 8 2.5 2.5 8 2.5        2.5 -> 3
  *                        8 -> 2
+ * 
+ * https://github.com/PavelDoynov
 */
 
 

@@ -9,6 +9,20 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Fold_and_Sum", "03.Fold_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Sieve_of_Eratosthenes", "04.Sieve_of_Eratosthenes\04.Sieve_of_Eratosthenes.csproj", "{033A8E8E-7EE2-4581-8134-6E3957097B26}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Compare_Char_Arrays", "05.Compare_Char_Arrays\05.Compare_Char_Arrays.csproj", "{ECD44FAD-C654-4A47-A85D-C48D0E1BD1E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.Max_Sequence_of_Equal_Elements", "06.Max_Sequence_of_Equal_Elements\06.Max_Sequence_of_Equal_Elements.csproj", "{DD3A4A39-95CF-45E7-9FAC-B57F19822F5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.Max_Sequence_of_Increasing_Elements", "07.Max_Sequence_of_Increasing_Elements\07.Max_Sequence_of_Increasing_Elements.csproj", "{E8A52A5A-2F55-444E-AFA0-750B7D8C578A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.Most_Frequent_Number", "08.Most_Frequent_Number\08.Most_Frequent_Number.csproj", "{B722440D-03CB-41A3-ACDC-3F91D819ED87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.Index_of_Letters", "09.Index_of_Letters\09.Index_of_Letters.csproj", "{12E3356B-6485-45B4-9EC5-605D2121A585}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.Pairs_by_Difference", "10.Pairs_by_Difference\10.Pairs_by_Difference.csproj", "{8FB241A0-BA75-4297-B133-2B8A2A57548F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.Equal_Sums", "11.Equal_Sums\11.Equal_Sums.csproj", "{460B8EB6-61BD-4ABF-86EA-96CD4B1A9651}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -31,5 +45,33 @@ Global
 		{033A8E8E-7EE2-4581-8134-6E3957097B26}.Debug|x86.Build.0 = Debug|x86
 		{033A8E8E-7EE2-4581-8134-6E3957097B26}.Release|x86.ActiveCfg = Release|x86
 		{033A8E8E-7EE2-4581-8134-6E3957097B26}.Release|x86.Build.0 = Release|x86
+		{ECD44FAD-C654-4A47-A85D-C48D0E1BD1E3}.Debug|x86.ActiveCfg = Debug|x86
+		{ECD44FAD-C654-4A47-A85D-C48D0E1BD1E3}.Debug|x86.Build.0 = Debug|x86
+		{ECD44FAD-C654-4A47-A85D-C48D0E1BD1E3}.Release|x86.ActiveCfg = Release|x86
+		{ECD44FAD-C654-4A47-A85D-C48D0E1BD1E3}.Release|x86.Build.0 = Release|x86
+		{DD3A4A39-95CF-45E7-9FAC-B57F19822F5D}.Debug|x86.ActiveCfg = Debug|x86
+		{DD3A4A39-95CF-45E7-9FAC-B57F19822F5D}.Debug|x86.Build.0 = Debug|x86
+		{DD3A4A39-95CF-45E7-9FAC-B57F19822F5D}.Release|x86.ActiveCfg = Release|x86
+		{DD3A4A39-95CF-45E7-9FAC-B57F19822F5D}.Release|x86.Build.0 = Release|x86
+		{E8A52A5A-2F55-444E-AFA0-750B7D8C578A}.Debug|x86.ActiveCfg = Debug|x86
+		{E8A52A5A-2F55-444E-AFA0-750B7D8C578A}.Debug|x86.Build.0 = Debug|x86
+		{E8A52A5A-2F55-444E-AFA0-750B7D8C578A}.Release|x86.ActiveCfg = Release|x86
+		{E8A52A5A-2F55-444E-AFA0-750B7D8C578A}.Release|x86.Build.0 = Release|x86
+		{B722440D-03CB-41A3-ACDC-3F91D819ED87}.Debug|x86.ActiveCfg = Debug|x86
+		{B722440D-03CB-41A3-ACDC-3F91D819ED87}.Debug|x86.Build.0 = Debug|x86
+		{B722440D-03CB-41A3-ACDC-3F91D819ED87}.Release|x86.ActiveCfg = Release|x86
+		{B722440D-03CB-41A3-ACDC-3F91D819ED87}.Release|x86.Build.0 = Release|x86
+		{12E3356B-6485-45B4-9EC5-605D2121A585}.Debug|x86.ActiveCfg = Debug|x86
+		{12E3356B-6485-45B4-9EC5-605D2121A585}.Debug|x86.Build.0 = Debug|x86
+		{12E3356B-6485-45B4-9EC5-605D2121A585}.Release|x86.ActiveCfg = Release|x86
+		{12E3356B-6485-45B4-9EC5-605D2121A585}.Release|x86.Build.0 = Release|x86
+		{8FB241A0-BA75-4297-B133-2B8A2A57548F}.Debug|x86.ActiveCfg = Debug|x86
+		{8FB241A0-BA75-4297-B133-2B8A2A57548F}.Debug|x86.Build.0 = Debug|x86
+		{8FB241A0-BA75-4297-B133-2B8A2A57548F}.Release|x86.ActiveCfg = Release|x86
+		{8FB241A0-BA75-4297-B133-2B8A2A57548F}.Release|x86.Build.0 = Release|x86
+		{460B8EB6-61BD-4ABF-86EA-96CD4B1A9651}.Debug|x86.ActiveCfg = Debug|x86
+		{460B8EB6-61BD-4ABF-86EA-96CD4B1A9651}.Debug|x86.Build.0 = Debug|x86
+		{460B8EB6-61BD-4ABF-86EA-96CD4B1A9651}.Release|x86.ActiveCfg = Release|x86
+		{460B8EB6-61BD-4ABF-86EA-96CD4B1A9651}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal

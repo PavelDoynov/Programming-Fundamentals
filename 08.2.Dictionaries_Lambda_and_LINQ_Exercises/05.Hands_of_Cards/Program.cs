@@ -28,6 +28,8 @@
  * Peshoslav: QH, QC, JS, JD, JC
  * Pesho: JD, JD, JD, JD, JD, JD
  * JOKER
+ * 
+ * https://github.com/PavelDoynov
 */
 
 

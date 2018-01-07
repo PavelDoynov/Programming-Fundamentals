@@ -20,6 +20,8 @@
  * o   n = 1 → take the first element
  * o   odd n → take elements n/2-1, n/2, n/2+1
  * o   even n → take elements n/2-1 and n/2
+ * 
+ * https://github.com/PavelDoynov
 */
 
 
