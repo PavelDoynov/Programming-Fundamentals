@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Match_Full_Name", "01.Match_Full_Name\01.Match_Full_Name.csproj", "{05D39CFA-CBFE-4191-A187-982C621ABAA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Match_Phone_Number", "02.Match_Phone_Number\02.Match_Phone_Number.csproj", "{BA961E0B-A038-4E44-9600-2D228F1D138A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05D39CFA-CBFE-4191-A187-982C621ABAA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05D39CFA-CBFE-4191-A187-982C621ABAA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05D39CFA-CBFE-4191-A187-982C621ABAA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05D39CFA-CBFE-4191-A187-982C621ABAA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA961E0B-A038-4E44-9600-2D228F1D138A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA961E0B-A038-4E44-9600-2D228F1D138A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA961E0B-A038-4E44-9600-2D228F1D138A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA961E0B-A038-4E44-9600-2D228F1D138A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
